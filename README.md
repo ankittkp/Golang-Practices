@@ -1,4 +1,4 @@
-# Go Best Practices 
+# Go Self Practices 
 ## Go Coding Practices and elegant solutions
 
 <img src=https://golang.org/doc/gopher/doc.png>

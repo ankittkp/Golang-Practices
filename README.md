@@ -1,4 +1,4 @@
-# GoLang-Practices
+# Golang-Practices
 ## Go Coding Practices and elegant solutions
 
 ### How to Practice

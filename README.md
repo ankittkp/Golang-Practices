@@ -2,10 +2,11 @@
  - Level 1 to ...
 ## Go Coding Practices and elegant solutions
 
+<img src=https://golang.org/doc/gopher/doc.png>
+
+
 
 ======================================================================
-
-<img src=https://golang.org/doc/gopher/doc.png>
 
 ### How to Practice
 
@@ -13,9 +14,11 @@
  - Read the code ( Mostly Printf statements used for console reading)
  - Implement on your own.
 
-=====================================================================
 
 # Contribute <img src=https://golang.org/doc/gopher/talks.png>
+
+
+=====================================================================
  - Fork the project on github.com.
  - Create a new branch.
  - Commit changes to the new branch.

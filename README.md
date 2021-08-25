@@ -11,4 +11,4 @@
 
 
 # To Run ( Currently) 
-  - go run file_name.go
+  - go run path/file_name.go

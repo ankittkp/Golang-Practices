@@ -1,14 +1,8 @@
-=====================================================================================
-
-
 # Go Best Practices 
 ## Go Coding Practices and elegant solutions
 
 <img src=https://golang.org/doc/gopher/doc.png>
 
-
-
-=====================================================================================
 
 
 ### How to Practice
@@ -21,8 +15,6 @@
 # Contribute <img src=https://golang.org/doc/gopher/talks.png>
 
 
-======================================================================================
-
  - Fork the project on github.com.
  - Create a new branch.
  - Commit changes to the new branch.
@@ -32,6 +24,4 @@
 # To Run ( Currently) 
   - go run path/file_name.go
   
-  
-  
-======================================================================================
+
